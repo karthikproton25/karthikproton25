@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💼 &nbsp; I sell pharmaceutical drugs and surgical instruments for a living.
-- ✍️ &nbsp; I also write front end code, mostly vanilla js and now gradually transitioning to the reactjs world. 
+- ✍️ &nbsp; I write front end code, mostly vanilla js and now gradually transitioning to the reactjs world. 
 - 🤔 &nbsp; I have taken a liking to Figma lately, to design mobile app prototypes.
 
 
